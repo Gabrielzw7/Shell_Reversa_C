@@ -1,7 +1,7 @@
 <h2>Shell Reversa C</h2>
 <p>Shell reversa simples criada em C.</p>
 
-<p>O Objetivo dessa deste código é aprimorar os conhecimentos em C, especificamente em Windows API e Socket.</p>
+<p>O Objetivo deste código é aprimorar os conhecimentos em C, especificamente em Windows API e Socket.</p>
 
 <p><i><b>Até o momento (08/24) não detectada pelo Windows Defender.</b></i></p>
 
